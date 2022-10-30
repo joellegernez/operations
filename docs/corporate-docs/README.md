@@ -9,15 +9,16 @@ Public information of the corporation
 
 Current Board of Directors:
 
-* Sarah Allen, Chair
+* Desi McAdam, Chair
+* Sarah Allen
 * Melissa Xie
-* Isa Herico Velasco
+* Kinsey Durham Grace
 
 Current corporate Officers:
 
 * Sarah Allen, CEO (on leave)
 * Melissa Xie, Treasurer
-* Isa Herico Velasco, Secretary
+* Kinsey Durham Grace, Secretary
 
 Legal & governance documents:
 
