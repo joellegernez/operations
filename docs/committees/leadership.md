@@ -1,6 +1,7 @@
 ## Leadership Committee
 
 _Committee Chair:  Desi McAdam_
+_Committee Member: KF Fellows_
 
 The leadership committee bridges the gap between the Programs/Chapters and Bridge Foundry, handling all matters that are related to leadership of Chapters and Programs.
 
