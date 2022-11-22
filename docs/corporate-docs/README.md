@@ -31,6 +31,8 @@ Legal & governance documents:
 * Legal representation: [Nixon Peabody summary of engagement](https://docs.google.com/document/d/1FfLTCkzP1OfdgahDmlztjCIqAurYzwzkjgug5fXxjkM/view)
 * [Minutes of the Board of Directors](https://drive.google.com/drive/folders/0BzPWVMj9wWa6MVhCTGo5b1hwLVk?resourcekey=0-GpK-TEnnXU_A3W_7LCk_gA)
 
+[Committees](https://github.com/bridgefoundry/operations/tree/main/docs/committees)
+
 We will link to these documents when they become available:
 
 * Public copy of our annual 990s
